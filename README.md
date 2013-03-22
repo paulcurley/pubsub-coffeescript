@@ -1,0 +1,1 @@
+Really simple pub/sub implementation in cwoffeescript
